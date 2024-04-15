@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668145097 source:c:\users\hp\onedrive\desktop\geyser\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
